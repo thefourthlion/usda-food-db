@@ -1,0 +1,38 @@
+.SearchIngredient {
+  text-align: center;
+  .ingredient-container {
+    margin-top: 25px;
+  }
+  .search-bar {
+    margin-top: 25px;
+  }
+  .search-btn {
+    margin-top: 25px;
+  }
+
+  .servings-header {
+    margin-top: 25px;
+  }
+
+  .recipe-ingredients-header {
+    margin-top: 25px;
+  }
+
+  .instructions {
+    margin-top: 25px;
+    margin-bottom: 25px;
+  }
+
+  .view-more {
+    margin-top: 25px;
+    margin-bottom: 25px;
+  }
+  .containers {
+    margin-top: 25px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    gap: 25px;
+  }
+}

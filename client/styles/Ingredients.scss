@@ -1,0 +1,28 @@
+@import "./variables.scss";
+
+.Ingredients {
+  margin-top: 20px;
+
+  .container {
+    padding: 25px;
+    background-color: $primary-color;
+    min-width: 250px;
+  }
+
+  .add-btn {
+    padding: 0px 10px 5px 10px;
+    margin-left: 15px;
+    background-color: white;
+    border: 1px solid black;
+    border-radius: 5px;
+  }
+
+  .add-btn:hover {
+    cursor: pointer;
+    box-shadow: 9px 9px 4px -6px hsla(0, 0%, 0%, 0.3);
+  }
+
+  .content-header {
+    // white-space: nowrap;
+  }
+}
