@@ -1,4 +1,7 @@
-import "../styles/AddRecipe.scss";import "../styles/CreateRecipe.scss";import "../styles/Nutrients.scss";
+import "../styles/AddRecipe.scss";
+import "../styles/foodDb.scss";
+import "../styles/CreateRecipe.scss";
+import "../styles/Nutrients.scss";
 import "../styles/Recipe.scss";
 import "../styles/Navbar.scss";
 import "../styles/Footer.scss";
